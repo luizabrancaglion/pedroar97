@@ -1,26 +1,26 @@
 {
-  "store_id": 51331,
-  "name": "pedroar97",
   "domain": "pedroar97.netlify.app",
-  "short_name": "pedroar97",
-  "description": "pedroar97",
-  "primary_color": "#222831",
-  "secondary_color": "#393e46",
-  "bg_color": "#ffffff",
+  "currency_symbol": "R$",
+  "primary_color": "#ff006b",
   "theme": {
     "bootswatch": "_",
-    "custom": "_"
+    "custom": "ecom-beauty"
   },
-  "logo": "/img/uploads/logo.png",
-  "mini_logo": "",
-  "icon": "/img/icon.png",
-  "large_icon": "/img/large-icon.png",
-  "favicon": "/img/uploads/favicon.png",
+  "bg_color": "#ffffff",
+  "repository": "ecomplus-stores/pedroar97",
+  "logo": "/img/uploads/g104074.png",
+  "name": "Miga sua make",
+  "short_name": "loja miga sua make",
   "lang": "pt_br",
   "currency": "BRL",
-  "currency_symbol": "R$",
-  "country_code": "BR",
-  "repository": "ecomplus-stores/pedroar97",
+  "mini_logo": "",
+  "font_family": "_",
+  "favicon": "/img/uploads/vaquinha.png",
   "icons_font": "_",
-  "font_family": "_"
+  "country_code": "BR",
+  "secondary_color": "#000000",
+  "icon": "/img/uploads/vaquinha.png",
+  "store_id": 51331,
+  "description": "Nós somos uma loja especializada em maquiagens de diversas marcas. Aqui você vai encontrar variedade, preço justo e atendimento que você merece. Seja bem vinda!",
+  "large_icon": "/img/uploads/vaquinha.png"
 }
