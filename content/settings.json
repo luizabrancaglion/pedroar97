@@ -1,7 +1,7 @@
 {
   "domain": "pedroar97.netlify.app",
   "currency_symbol": "R$",
-  "primary_color": "#ff006b",
+  "primary_color": "#ff78af",
   "theme": {
     "bootswatch": "_",
     "custom": "ecom-beauty"
@@ -10,7 +10,7 @@
   "repository": "ecomplus-stores/pedroar97",
   "logo": "/img/uploads/g104074.png",
   "name": "Miga sua make",
-  "short_name": "loja miga sua make",
+  "short_name": "Miga sua Make",
   "lang": "pt_br",
   "currency": "BRL",
   "mini_logo": "",
