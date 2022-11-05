@@ -23,7 +23,9 @@
       "/base?Base",
       "/corretivo?Corretivo",
       "/cuidado-facial?Cuidado facial",
-      "/labios?Lábios"
+      "/labios?Lábios",
+      "/primer-facial?Primer",
+      "/paletas?Paletas"
     ],
     "random": 0,
     "full_width": true
