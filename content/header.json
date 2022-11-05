@@ -4,16 +4,7 @@
     "link": "/frete-gratis"
   },
   "contacts_stripe": {
-    "pages": [
-      {
-        "title": "Sobre nós",
-        "link": "/pages/sobre-nos"
-      },
-      {
-        "title": "Esta loja é um PWA",
-        "link": "/posts/esta-loja-e-um-pwa"
-      }
-    ],
+    "pages": [],
     "phone_wpp": true,
     "socials": true
   },
@@ -22,11 +13,10 @@
       "/marcas?Marcas",
       "/base?Base",
       "/corretivo?Corretivo",
-      "/cuidado-facial?Cuidado facial",
-      "/labios?Lábios",
       "/primer-facial?Primer",
-      "/paletas?Paletas",
-      "/batom-liquido?Batom líquido"
+      "/pinceis?Pincéis",
+      "/cuidado-facial?Cuidado facial",
+      "/paletas?Paletas"
     ],
     "random": 0,
     "full_width": true
