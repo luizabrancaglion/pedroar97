@@ -1,7 +1,7 @@
 {
   "marketing_stripe": {
-    "text": "Aproveite nossos descontos de até 50%!",
-    "link": "/promotion"
+    "text": "Tenha frete GRÁTIS para pedidos a partir de R$ 150* confira condições",
+    "link": "/frete-gratis"
   },
   "contacts_stripe": {
     "pages": [
@@ -18,12 +18,15 @@
     "socials": true
   },
   "categories_list": {
-    "featured": [],
-    "random": 6,
-    "full_width": false
+    "featured": [
+      "/marcas?Marcas",
+      "/cuidado-facial?Cuidado facial"
+    ],
+    "random": 1,
+    "full_width": true
   },
   "desktop_megamenu": false,
   "search_input": true,
-  "alphabetical_order_submenu": false,
+  "alphabetical_order_submenu": true,
   "full_width_submenu": false
 }
