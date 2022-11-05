@@ -20,6 +20,8 @@
   "categories_list": {
     "featured": [
       "/marcas?Marcas",
+      "/base?Base",
+      "/corretivo?Corretivo",
       "/cuidado-facial?Cuidado facial"
     ],
     "random": 1,
