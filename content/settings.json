@@ -3,8 +3,8 @@
   "currency_symbol": "R$",
   "primary_color": "#ff78af",
   "theme": {
-    "bootswatch": "litera",
-    "custom": "ecom-beauty"
+    "bootswatch": "lux",
+    "custom": "_"
   },
   "bg_color": "#ffffff",
   "repository": "ecomplus-stores/pedroar97",
@@ -14,9 +14,9 @@
   "lang": "pt_br",
   "currency": "BRL",
   "mini_logo": "",
-  "font_family": "_",
+  "font_family": "Roboto",
   "favicon": "/img/uploads/vaquinha.png",
-  "icons_font": "bootstrap-icons",
+  "icons_font": "_",
   "country_code": "BR",
   "secondary_color": "#000000",
   "icon": "/img/uploads/vaquinha.png",
