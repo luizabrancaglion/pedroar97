@@ -22,7 +22,8 @@
       "/marcas?Marcas",
       "/base?Base",
       "/corretivo?Corretivo",
-      "/cuidado-facial?Cuidado facial"
+      "/cuidado-facial?Cuidado facial",
+      "/labios?Lábios"
     ],
     "random": 0,
     "full_width": true
