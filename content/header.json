@@ -1,6 +1,6 @@
 {
   "marketing_stripe": {
-    "text": "Tenha frete GRÁTIS para pedidos a partir de R$ 150* confira condições",
+    "text": "Frete GRÁTIS para pedidos a partir de R$ 150* confira condições",
     "link": "/frete-gratis"
   },
   "contacts_stripe": {
@@ -10,7 +10,6 @@
   },
   "categories_list": {
     "featured": [
-      "/marcas?Marcas",
       "/base?Base",
       "/corretivo?Corretivo",
       "/primer-facial?Primer",
