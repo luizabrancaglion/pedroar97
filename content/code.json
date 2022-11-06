@@ -1,5 +1,5 @@
 {
-  "css": ".btn {\n    font-size: 25px;\n}\n\n.header__buttons .btn {\n    padding: 0px 10px 0px 10px;\n}",
+  "css": ".btn {\n    font-size: 28px;\n}\n\n.header__buttons .btn {\n    padding: 0px 10px 0px 10px;\n}",
   "html_head": "",
   "html_body": ""
 }
