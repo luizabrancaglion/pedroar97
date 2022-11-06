@@ -1,5 +1,5 @@
 {
-  "css": "",
+  "css": ".btn {\n    font-size: 18px;\n}",
   "html_head": "",
   "html_body": ""
 }
