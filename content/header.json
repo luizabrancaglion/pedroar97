@@ -10,12 +10,14 @@
   },
   "categories_list": {
     "featured": [
-      "/base?Base",
-      "/corretivo?Corretivo",
-      "/primer-facial?Primer",
+      "/face/base?Base",
+      "/face/corretivo?Corretivo",
+      "/olhos/mascara-de-cilios?Máscara de cílios",
+      "/face/primer-facial?Primer",
+      "/labios?Lábios",
+      "/face/blush?Blush",
       "/pinceis?Pincéis",
-      "/cuidado-facial?Cuidado facial",
-      "/paletas?Paletas"
+      "/cuidado-facial?Cuidado facial"
     ],
     "random": 0,
     "full_width": true
