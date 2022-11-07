@@ -30,11 +30,6 @@
       "enabled": true
     },
     {
-      "type": "dynamic-showcase",
-      "load_more": false,
-      "sort": "views"
-    },
-    {
       "type": "collection-shelf",
       "shuffle": true,
       "limit": 12,
@@ -43,6 +38,11 @@
       "sort": "news",
       "title": "Preparação de Pele",
       "headless": false
+    },
+    {
+      "type": "dynamic-showcase",
+      "load_more": false,
+      "sort": "views"
     },
     {
       "type": "brands-carousel",
