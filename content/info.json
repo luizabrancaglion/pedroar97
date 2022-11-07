@@ -1,18 +1,22 @@
 {
   "shipping": {
     "show": true,
-    "text": "Entregamos para todo o Brasil"
+    "text": "confira as condições",
+    "title": "FRETE GRÁTIS"
   },
   "installments": {
     "show": true,
-    "text": "Parcele sem juros"
+    "text": "parcela mínima R$ 5",
+    "title": "PARCELE SEM JUROS"
   },
   "exchange": {
     "show": false,
-    "text": "Não gostou? A primeira troca é gratuita"
+    "text": ""
   },
   "promo": {
-    "show": false,
-    "text": "Diferentes promoções ao longo do ano!"
+    "show": true,
+    "text": "5% desconto no PIX",
+    "link": "",
+    "title": "DESCONTO NO PIX"
   }
 }
