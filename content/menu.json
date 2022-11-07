@@ -1,8 +1,17 @@
 {
   "sort_categories": [
-    "base",
-    "corretivo",
-    "olhos"
+    "face/base",
+    "face/corretivo",
+    "face/po-facial",
+    "olhos/mascara-de-cilios",
+    "face",
+    "olhos",
+    "labios",
+    "paletas",
+    "pinceis",
+    "esponjas-e-acessorios",
+    "cuidado-facial",
+    "sobrancelhas"
   ],
   "alphabetical_order": true,
   "phone_wpp": true,
