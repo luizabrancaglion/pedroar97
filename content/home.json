@@ -16,10 +16,6 @@
       ]
     },
     {
-      "type": "info-bar",
-      "enabled": true
-    },
-    {
       "type": "collection-shelf",
       "shuffle": true,
       "collection_id": null,
@@ -28,6 +24,15 @@
       "headless": false,
       "limit": 12,
       "page": 1
+    },
+    {
+      "type": "info-bar",
+      "enabled": true
+    },
+    {
+      "type": "dynamic-showcase",
+      "load_more": false,
+      "sort": "views"
     },
     {
       "type": "collection-shelf",
@@ -40,20 +45,11 @@
       "headless": false
     },
     {
-      "type": "dynamic-showcase",
-      "load_more": false,
-      "sort": "views"
-    },
-    {
       "type": "brands-carousel",
       "limit": 24,
       "offset": 0,
       "autoplay": 5000,
       "sort": "name"
-    },
-    {
-      "type": "breadcrumbs",
-      "enabled": true
     }
   ]
 }
