@@ -1,5 +1,5 @@
 {
-  "css": "main .product__buy .btn-lg {\n    padding: 0px;\n}",
+  "css": "main .product__buy .btn-lg {\n    padding: 0px;\n}\nmain .products-carousel__title {\n    font-family: system-ui;\n    font-weight: 700;\n}",
   "html_head": "",
   "html_body": ""
 }
