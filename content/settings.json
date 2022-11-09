@@ -1,7 +1,7 @@
 {
   "domain": "pedroar97.netlify.app",
   "currency_symbol": "R$",
-  "primary_color": "#ff92b9",
+  "primary_color": "#ff0d72",
   "theme": {
     "bootswatch": "minty",
     "custom": "ecom-beauty"
