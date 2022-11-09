@@ -1,9 +1,9 @@
 {
   "domain": "pedroar97.netlify.app",
   "currency_symbol": "R$",
-  "primary_color": "#ff78af",
+  "primary_color": "#ff92b9",
   "theme": {
-    "bootswatch": "_",
+    "bootswatch": "minty",
     "custom": "ecom-beauty"
   },
   "bg_color": "#ffffff",
@@ -14,7 +14,7 @@
   "lang": "pt_br",
   "currency": "BRL",
   "mini_logo": "",
-  "font_family": "Roboto",
+  "font_family": "_",
   "favicon": "/img/uploads/vaquinha.png",
   "icons_font": "feather-icons",
   "country_code": "BR",
