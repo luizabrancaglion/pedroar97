@@ -1,7 +1,9 @@
 {
   "marketing_stripe": {
     "text": "Frete GRÁTIS para pedidos a partir de R$ 150* confira condições",
-    "link": "/frete-gratis"
+    "link": "/frete-gratis",
+    "color": "#ffffff",
+    "background": "#000000"
   },
   "contacts_stripe": {
     "pages": [],
@@ -9,15 +11,7 @@
     "socials": true
   },
   "categories_list": {
-    "featured": [
-      "/face/base?Base",
-      "/face/corretivo?Corretivo",
-      "/olhos/mascara-de-cilios?Máscara de cílios",
-      "/labios?Lábios",
-      "/face/blush?Blush",
-      "/pinceis?Pincéis",
-      "/cuidado-facial?Cuidado facial"
-    ],
+    "featured": [],
     "random": 0,
     "full_width": true
   },
