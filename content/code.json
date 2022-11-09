@@ -1,5 +1,5 @@
 {
-  "css": "",
+  "css": "main .product__buy .btn-lg {\n    padding: 0px;\n}",
   "html_head": "",
   "html_body": ""
 }
