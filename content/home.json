@@ -40,11 +40,6 @@
       "headless": false
     },
     {
-      "type": "dynamic-showcase",
-      "load_more": false,
-      "sort": "views"
-    },
-    {
       "type": "brands-carousel",
       "limit": 24,
       "offset": 0,
