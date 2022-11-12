@@ -12,10 +12,13 @@
   },
   "categories_list": {
     "featured": [
-      "/pinceis-maquiagem/pincel-base?Base",
+      "/face?Face",
+      "/face/base-maquiagem?Base",
       "/face/corretivo-maquiagem?Corretivo",
+      "/pinceis-maquiagem/pincel-sobrancelhas?Sobrancelhas",
+      "/olhos?Olhos",
       "/pinceis?Pincéis",
-      "/face?Face"
+      "/esponjas-e-acessorios?Esponjas e Acessórios"
     ],
     "random": 0,
     "full_width": true
