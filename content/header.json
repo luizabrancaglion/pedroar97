@@ -11,7 +11,12 @@
     "socials": true
   },
   "categories_list": {
-    "featured": [],
+    "featured": [
+      "/pinceis-maquiagem/pincel-base?Base",
+      "/face/corretivo-maquiagem?Corretivo",
+      "/pinceis?Pincéis",
+      "/face?Face"
+    ],
     "random": 0,
     "full_width": true
   },
