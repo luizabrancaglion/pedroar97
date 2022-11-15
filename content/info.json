@@ -10,8 +10,9 @@
     "title": "ATÉ 4X SEM JUROS"
   },
   "exchange": {
-    "show": false,
-    "text": ""
+    "show": true,
+    "text": "envio em até 24hrs úteis",
+    "title": "ENVIO IMEDIATO"
   },
   "promo": {
     "show": true,
