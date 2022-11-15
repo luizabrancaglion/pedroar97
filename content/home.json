@@ -49,6 +49,11 @@
       "title": "Pincéis"
     },
     {
+      "type": "page-title",
+      "title": "Categorias",
+      "description": "compre por categoria"
+    },
+    {
       "type": "banners-grid",
       "banners": [
         {
