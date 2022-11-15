@@ -7,17 +7,17 @@
   "installments": {
     "show": true,
     "text": "parcela mínima R$ 5",
-    "title": "ATÉ 4X SEM JUROS"
+    "title": "ATÉ 4X S/ JUROS"
   },
   "exchange": {
     "show": true,
-    "text": "envio em até 24hrs úteis",
+    "text": "a pronta entrega",
     "title": "ENVIO IMEDIATO"
   },
   "promo": {
     "show": true,
     "text": "5% desconto no PIX",
     "link": "",
-    "title": "DESCONTO PIX"
+    "title": "DESCONTO NO PIX"
   }
 }
