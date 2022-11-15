@@ -55,32 +55,7 @@
     },
     {
       "type": "banners-grid",
-      "banners": [
-        {
-          "img": "/img/uploads/categorias-de-maquiagem-loja-miga-sua-make-1-.jpg",
-          "alt": "paletas de maquiagem",
-          "link": "/paletas",
-          "mobile_img": "/img/uploads/3.png"
-        },
-        {
-          "img": "/img/uploads/categorias-de-maquiagem-loja-miga-sua-make-2-.jpg",
-          "link": "/bases",
-          "alt": "bases de maquiagem",
-          "mobile_img": "/img/uploads/2.png"
-        },
-        {
-          "img": "/img/uploads/categorias-de-maquiagem-loja-miga-sua-make-5-.jpg",
-          "link": "/pinceis",
-          "alt": "pinceis de maquiagem",
-          "mobile_img": "/img/uploads/1.png"
-        },
-        {
-          "link": "/olhos",
-          "alt": "olhos",
-          "mobile_img": "/img/uploads/bases.jpg",
-          "img": "/img/uploads/categorias-de-maquiagem-loja-miga-sua-make-4-.jpg"
-        }
-      ]
+      "banners": []
     },
     {
       "type": "brands-carousel",
