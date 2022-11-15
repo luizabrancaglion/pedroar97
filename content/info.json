@@ -1,8 +1,8 @@
 {
   "shipping": {
     "show": true,
-    "text": "confira condições*",
-    "title": "FRETE GRÁTIS"
+    "text": "confira condições",
+    "title": "FRETE GRÁTIS*"
   },
   "installments": {
     "show": true,
