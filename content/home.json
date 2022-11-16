@@ -38,9 +38,10 @@
       "type": "banners-grid",
       "banners": [
         {
-          "img": "/img/uploads/design-sem-nome.png",
+          "img": "/img/uploads/bases-maquiagem.webp",
           "mobile_img": "/img/uploads/bases.webp",
-          "alt": "bases para maquiagem"
+          "alt": "bases para maquiagem",
+          "link": "/face/base-maquiagem"
         },
         {
           "img": "/img/uploads/design-sem-nome.png",
