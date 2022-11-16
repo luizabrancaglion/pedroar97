@@ -38,20 +38,37 @@
       "type": "banners-grid",
       "banners": [
         {
-          "img": "/img/uploads/categorias-de-maquiagem-loja-miga-sua-make-1-.jpg",
-          "mobile_img": "/img/uploads/paletas.webp"
+          "img": "/img/uploads/design-sem-nome.png",
+          "mobile_img": "/img/uploads/bases.webp",
+          "alt": "bases para maquiagem"
         },
         {
-          "img": "/img/uploads/categorias-de-maquiagem-loja-miga-sua-make-2-.jpg",
-          "mobile_img": "/img/uploads/bases.webp"
-        },
-        {
-          "mobile_img": "/img/uploads/pinceis.webp",
-          "img": "/img/uploads/categorias-de-maquiagem-loja-miga-sua-make-5-.jpg"
-        },
-        {
-          "img": "/img/uploads/categorias-de-maquiagem-loja-miga-sua-make-4-.jpg",
+          "img": "/img/uploads/design-sem-nome.png",
           "mobile_img": "/img/uploads/corretivos.webp"
+        },
+        {
+          "mobile_img": "/img/uploads/blush.webp",
+          "img": "/img/uploads/design-sem-nome.png"
+        },
+        {
+          "img": "/img/uploads/design-sem-nome.png",
+          "mobile_img": "/img/uploads/iluminador.webp"
+        },
+        {
+          "img": "/img/uploads/design-sem-nome.png",
+          "mobile_img": "/img/uploads/rimel.webp"
+        },
+        {
+          "img": "/img/uploads/design-sem-nome.png",
+          "mobile_img": "/img/uploads/delineador.webp"
+        },
+        {
+          "img": "/img/uploads/design-sem-nome.png",
+          "mobile_img": "/img/uploads/sombras.webp"
+        },
+        {
+          "img": "/img/uploads/design-sem-nome.png",
+          "mobile_img": "/img/uploads/primer.webp"
         }
       ]
     },
