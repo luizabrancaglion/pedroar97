@@ -56,24 +56,32 @@
           "alt": "blush facial"
         },
         {
-          "img": "/img/uploads/design-sem-nome.png",
-          "mobile_img": "/img/uploads/iluminador.webp"
+          "img": "/img/uploads/iluminador-facial.webp",
+          "mobile_img": "/img/uploads/iluminador.webp",
+          "link": "/face/iluminador",
+          "alt": "iluminador facial"
         },
         {
-          "img": "/img/uploads/design-sem-nome.png",
+          "img": "/img/uploads/rimel-mascara-de-cilios.webp",
           "mobile_img": "/img/uploads/rimel.webp"
         },
         {
-          "img": "/img/uploads/design-sem-nome.png",
-          "mobile_img": "/img/uploads/delineador.webp"
+          "img": "/img/uploads/delineador-de-maquiagem.webp",
+          "mobile_img": "/img/uploads/delineador.webp",
+          "link": "/olhos/delineador",
+          "alt": "delineador de maquiagem"
         },
         {
-          "img": "/img/uploads/design-sem-nome.png",
-          "mobile_img": "/img/uploads/sombras.webp"
+          "img": "/img/uploads/sombras-para-maquiagem.webp",
+          "mobile_img": "/img/uploads/sombras.webp",
+          "link": "/olhos/sombra",
+          "alt": "sombras para maquiagem"
         },
         {
-          "img": "/img/uploads/design-sem-nome.png",
-          "mobile_img": "/img/uploads/primer.webp"
+          "img": "/img/uploads/primer-facial-maquiagem.webp",
+          "mobile_img": "/img/uploads/primer.webp",
+          "link": "/face/primer-maquiagem",
+          "alt": "primer facial"
         }
       ]
     },
