@@ -44,12 +44,16 @@
           "link": "/face/base-maquiagem"
         },
         {
-          "img": "/img/uploads/design-sem-nome.png",
-          "mobile_img": "/img/uploads/corretivos.webp"
+          "img": "/img/uploads/corretivos-de-maquiagem.webp",
+          "mobile_img": "/img/uploads/corretivos.webp",
+          "link": "/face/corretivo-maquiagem",
+          "alt": "corretivos para maquiagem"
         },
         {
           "mobile_img": "/img/uploads/blush.webp",
-          "img": "/img/uploads/design-sem-nome.png"
+          "img": "/img/uploads/blush-facial-maquiagem.webp",
+          "link": "/face/blush-facial",
+          "alt": "blush facial"
         },
         {
           "img": "/img/uploads/design-sem-nome.png",
