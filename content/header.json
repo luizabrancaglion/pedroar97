@@ -12,16 +12,14 @@
   },
   "categories_list": {
     "featured": [
-      "/face/base-maquiagem?Base",
-      "/face/corretivo-maquiagem?Corretivo",
-      "/sobrancelhas?Sobrancelhas",
       "/face?Face",
       "/olhos?Olhos",
-      "/paletas-maquiagem?Paletas",
+      "/labios?Lábios",
       "/pinceis?Pincéis",
+      "/paletas-maquiagem?Paletas",
+      "/sobrancelhas?Sobrancelhas",
       "/esponjas-e-acessorios?Esponjas e Acessórios",
-      "/cuidado-facial?Cuidado Facial",
-      "/unhas?Unhas"
+      "/skin-care?Skin Care"
     ],
     "random": 0,
     "full_width": true
