@@ -14,7 +14,7 @@
     "list": []
   },
   "contacts": {
-    "title": "Contatos",
+    "title": "Precisa de ajuda?",
     "phone_wpp": true,
     "socials": true,
     "email": true,
@@ -22,8 +22,8 @@
   },
   "stamps": [
     {
-      "src": "/img/uploads/ssl-safe.png",
-      "alt": "Secure connection"
+      "src": "/img/uploads/selo-site-de-maquiagem-seguro-miga-sua-make.webp",
+      "alt": "selo site de maquiagem seguro"
     }
   ],
   "payment_methods": {
@@ -41,6 +41,7 @@
     "paypal": true,
     "citibank": false,
     "mais": false,
+    "pix": true,
     "itau": true
   },
   "credits": ""
