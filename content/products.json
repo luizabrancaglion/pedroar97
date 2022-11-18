@@ -24,6 +24,58 @@
     {
       "type": "info-bar",
       "enabled": true
+    },
+    {
+      "type": "banners-grid",
+      "banners": [
+        {
+          "img": "/img/uploads/bases-maquiagem.webp",
+          "mobile_img": "/img/uploads/bases-maquiagem.webp",
+          "alt": "bases de maquiagem",
+          "link": "/face/base-maquiagem"
+        },
+        {
+          "img": "/img/uploads/corretivos-de-maquiagem.webp",
+          "mobile_img": "/img/uploads/corretivos.webp",
+          "link": "/face/corretivo-maquiagem",
+          "alt": "corretivos de maquiagem"
+        },
+        {
+          "img": "/img/uploads/blush-facial-maquiagem.webp",
+          "mobile_img": "/img/uploads/blush.webp",
+          "alt": "blush facial de maquiagem",
+          "link": "/face/blush-facial"
+        },
+        {
+          "img": "/img/uploads/iluminador-facial.webp",
+          "mobile_img": "/img/uploads/iluminador.webp",
+          "link": "/face/iluminador"
+        },
+        {
+          "img": "/img/uploads/rimel-mascara-de-cilios.webp",
+          "mobile_img": "/img/uploads/rimel.webp",
+          "link": "/olhos/rimel-mascara-cilios",
+          "alt": "rimel mascara de cilios maquiagem"
+        },
+        {
+          "img": "/img/uploads/delineador-de-maquiagem.webp",
+          "mobile_img": "/img/uploads/delineador.webp",
+          "link": "/olhos/delineador",
+          "alt": "delineador de maquiagem"
+        },
+        {
+          "img": "/img/uploads/sombras-para-maquiagem.webp",
+          "mobile_img": "/img/uploads/sombras.webp",
+          "link": "/olhos/sombra",
+          "alt": "sombras de maquiagem"
+        },
+        {
+          "img": "/img/uploads/primer-facial-maquiagem.webp",
+          "mobile_img": "/img/uploads/primer.webp",
+          "link": "/face/primer-maquiagem",
+          "alt": "primer de maquiagem"
+        }
+      ]
     }
   ]
 }
