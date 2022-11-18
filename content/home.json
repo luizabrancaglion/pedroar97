@@ -63,7 +63,9 @@
         },
         {
           "img": "/img/uploads/rimel-mascara-de-cilios.webp",
-          "mobile_img": "/img/uploads/rimel.webp"
+          "mobile_img": "/img/uploads/rimel.webp",
+          "alt": "mascara de cilios",
+          "link": "/olhos/rimel-mascara-cilios"
         },
         {
           "img": "/img/uploads/delineador-de-maquiagem.webp",
