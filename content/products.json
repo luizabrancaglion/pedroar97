@@ -9,23 +9,6 @@
       "enabled": true
     },
     {
-      "type": "product-description",
-      "title": "Quem comprou este produto, também comprou:",
-      "enabled": true
-    },
-    {
-      "type": "recommended-products",
-      "title": "Veja também essas super ofertas:"
-    },
-    {
-      "type": "related-products",
-      "title": "Você também pode gostar"
-    },
-    {
-      "type": "info-bar",
-      "enabled": true
-    },
-    {
       "type": "page-title",
       "title": "Categorias Principais",
       "description": "compre maquiagem por categorias"
@@ -81,6 +64,15 @@
           "alt": "primer de maquiagem"
         }
       ]
+    },
+    {
+      "type": "info-bar",
+      "enabled": true
+    },
+    {
+      "type": "product-description",
+      "title": "Quem comprou este produto, também comprou:",
+      "enabled": true
     }
   ]
 }
