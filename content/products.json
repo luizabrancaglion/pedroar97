@@ -26,6 +26,11 @@
       "enabled": true
     },
     {
+      "type": "page-title",
+      "title": "Categorias Principais",
+      "description": "compre maquiagem por categorias"
+    },
+    {
       "type": "banners-grid",
       "banners": [
         {
