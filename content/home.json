@@ -6,14 +6,7 @@
       "type": "banner-slider",
       "autoplay": 9000,
       "full_width": true,
-      "slides": [
-        {
-          "start": "",
-          "end": "",
-          "img": "/img/uploads/loja-de-maquiagem-com-frete-gratis.webp",
-          "mobile_img": "/img/uploads/aulo-loja-de-maquiagem-miga-sua-make.webp"
-        }
-      ]
+      "slides": []
     },
     {
       "type": "info-bar",
