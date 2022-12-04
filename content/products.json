@@ -70,6 +70,10 @@
       "enabled": true
     },
     {
+      "type": "related-products",
+      "title": "Compre também"
+    },
+    {
       "type": "product-description",
       "title": "Quem comprou este produto, também comprou:",
       "enabled": true
