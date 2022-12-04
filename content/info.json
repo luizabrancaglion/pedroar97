@@ -1,8 +1,8 @@
 {
   "shipping": {
     "show": true,
-    "text": "confira condições",
-    "title": "FRETE GRÁTIS*"
+    "text": "a pronta entrega",
+    "title": "ENVIO IMEDIATO"
   },
   "installments": {
     "show": true,
@@ -11,8 +11,8 @@
   },
   "exchange": {
     "show": true,
-    "text": "a pronta entrega",
-    "title": "ENVIO IMEDIATO"
+    "text": "atendimento profissional",
+    "title": "TIRE SUAS DÚVIDAS"
   },
   "promo": {
     "show": true,
