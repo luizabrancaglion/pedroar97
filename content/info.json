@@ -2,22 +2,25 @@
   "shipping": {
     "show": true,
     "text": "a pronta entrega",
-    "title": "ENVIO IMEDIATO"
+    "title": "ENVIO IMEDIATO",
+    "link": "/pages/termos"
   },
   "installments": {
     "show": true,
     "text": "parcela mínima R$ 5",
-    "title": "ATÉ 4X SEM JUROS"
+    "title": "ATÉ 4X SEM JUROS",
+    "link": "/pages/termos"
   },
   "exchange": {
     "show": true,
     "text": "atendimento profissional",
-    "title": "TIRE SUAS DÚVIDAS"
+    "title": "TIRE SUAS DÚVIDAS",
+    "link": "https://wa.me/5515981452554?text=Ola!%20estou%20finalizando%20um%20pedido%20e%20gostaria%20da%20sua%20ajuda"
   },
   "promo": {
     "show": true,
     "text": "5% desconto no PIX",
-    "link": "",
+    "link": "/pages/termos",
     "title": "DESCONTO À VISTA"
   }
 }
