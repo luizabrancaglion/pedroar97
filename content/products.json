@@ -9,6 +9,10 @@
       "enabled": true
     },
     {
+      "type": "related-products",
+      "title": "Compre também"
+    },
+    {
       "type": "page-title",
       "title": "Categorias Principais",
       "description": "compre maquiagem por categoria"
@@ -68,10 +72,6 @@
     {
       "type": "info-bar",
       "enabled": true
-    },
-    {
-      "type": "related-products",
-      "title": "Compre também"
     },
     {
       "type": "product-description",
