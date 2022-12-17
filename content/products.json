@@ -77,6 +77,10 @@
       "type": "product-description",
       "title": "Quem comprou este produto, também comprou:",
       "enabled": true
+    },
+    {
+      "type": "recommended-products",
+      "title": "Outros também compraram"
     }
   ]
 }
