@@ -1,5 +1,5 @@
 {
-  "meta_title": "Loja de Maquiagem | Miga sua Make",
+  "meta_title": "Miga sua Make | Loja de Maquiagem",
   "meta_description": "Loja de maquiagem com as melhores marcas de cosméticos com atendimento e preços incríveis!",
   "sections": [
     {
@@ -94,6 +94,11 @@
       "page": 1,
       "title": "Novidades",
       "sort": "news"
+    },
+    {
+      "type": "page-title",
+      "title": "Compre por Marca",
+      "description": "maiores marcas do mercado"
     },
     {
       "type": "brands-carousel",
